@@ -29,6 +29,6 @@ HTML         33 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![WestonSeyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=wawa0584)](https://github.com/wawa0584/github-readme-stats)
+
 
 <hr>
