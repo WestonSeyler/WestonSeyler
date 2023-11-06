@@ -10,6 +10,7 @@
 <code><a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a></code>
 <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
 <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:go.svg" /></a></code>
+<code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:nestjs.svg"/></a></code>
 <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code>
 <hr>
 
