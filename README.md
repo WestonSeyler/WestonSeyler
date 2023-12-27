@@ -13,6 +13,8 @@
 <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:nestjs.svg"/></a></code>
 <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:react.svg"/></a></code>
 <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code>
+<code><a href="https://github.com/rust/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
+
 <hr>
 
 ### 📊 Weekly development breakdown
